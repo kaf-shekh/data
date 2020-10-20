@@ -1,7 +1,7 @@
 { 
   "data" : 
     {
-      "data" : [
+      "data" : 
         {
           "title":"true",
            "company":"true",
@@ -11,8 +11,7 @@
             "role":"false",
             "looking_for":"false",
             "skills":"false"
-        }
-              ],
+        },
       "status" : "sucess"
       }
 }
