@@ -3,14 +3,14 @@
     {
       "data" : 
         {
-          "title":"true",
-           "company":"true",
-            "bio":"false",
-            "city":"false",
-            "country":"false",
-            "role":"false",
-            "looking_for":"false",
-            "skills":"false"
+          "true":"title",
+           "true":"company",
+            "false":"bio",
+            "false":"city",
+            "falsefalsefalse":"country",
+            "falsefalse":"role",
+            "false":"looking_fo",
+            "false":"skills"
         },
       "status" : "sucess"
       }
