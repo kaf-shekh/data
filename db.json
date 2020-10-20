@@ -7,8 +7,8 @@
            "true":"company",
             "false":"bio",
             "false":"city",
-            "falsefalsefalse":"country",
-            "falsefalse":"role",
+            "false":"country",
+            "false":"role",
             "false":"looking_fo",
             "false":"skills"
         },
