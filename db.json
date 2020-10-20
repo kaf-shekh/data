@@ -1,11 +1,16 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+"data" : [
+  {
+          "title":"true",
+           "company":"true",
+            "bio":"false",
+            "city":"false",
+            "country":"false",
+            "role":"false",
+            "looking_for":"false",
+            "skills":"false"
+          }
+          ],
+                    
+"status" : "sucess"
 }
