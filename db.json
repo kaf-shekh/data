@@ -9,7 +9,7 @@
             "city": true,
             "country": true,
             "role": true,
-            "looking_for": true,
+            "lookingFor": true,
             "skills": false
         },
       "status" : "sucess"
