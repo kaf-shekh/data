@@ -8,8 +8,8 @@
             "bio": true,
             "city": true,
             "country": true,
-            "role": false,
-            "looking_for": false,
+            "role": true,
+            "looking_for": true,
             "skills": false
         },
       "status" : "sucess"
