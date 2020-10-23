@@ -10,7 +10,7 @@
             "country": true,
             "role": false,
             "lookingFor": false,
-            "skills": false
+            "skills": true
         },
       "status" : "sucess"
       }
