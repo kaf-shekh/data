@@ -5,9 +5,9 @@
         {
           "title": true,
            "company": true,
-            "bio": false,
-            "city": false,
-            "country": false,
+            "bio": true,
+            "city": true,
+            "country": true,
             "role": false,
             "looking_for": false,
             "skills": false
