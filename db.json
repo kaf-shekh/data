@@ -3,8 +3,8 @@
     {
       "data" : 
         {
-          "title": false,
-           "company": false,
+          "title": true,
+           "company": true,
             "bio": false,
             "city": false,
             "country": false,
