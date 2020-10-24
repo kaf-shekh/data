@@ -3,14 +3,14 @@
     {
       "data" : 
         {
-          "title": true,
-           "company": true,
-            "bio": true,
-            "city": true,
-            "country": true,
+          "title": false,
+           "company": false,
+            "bio": false,
+            "city": false,
+            "country": false,
             "role": false,
-            "lookingFor": true,
-            "skills": true
+            "lookingFor": false,
+            "skills": false
         },
       "status" : "sucess"
       }
